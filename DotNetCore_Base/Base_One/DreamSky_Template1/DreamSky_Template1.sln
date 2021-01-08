@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamSky_Template1", "DreamSky_Template1\DreamSky_Template1.csproj", "{123DAB5B-2BC9-499C-9010-CE25714B2991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123DAB5B-2BC9-499C-9010-CE25714B2991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123DAB5B-2BC9-499C-9010-CE25714B2991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123DAB5B-2BC9-499C-9010-CE25714B2991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123DAB5B-2BC9-499C-9010-CE25714B2991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {173C4F24-7513-47A8-8B9F-81531DFFBB55}
+	EndGlobalSection
+EndGlobal

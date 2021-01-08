@@ -1,0 +1,17 @@
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\DreamSky_Template1.deps.json
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\DreamSky_Template1.runtimeconfig.json
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\DreamSky_Template1.runtimeconfig.dev.json
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\DreamSky_Template1.dll
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\bin\Debug\netcoreapp2.2\DreamSky_Template1.pdb
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.csprojAssemblyReference.cache
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.AssemblyInfoInputs.cache
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.AssemblyInfo.cs
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.csproj.CoreCompileInputs.cache
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.RazorAssemblyInfo.cache
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.RazorAssemblyInfo.cs
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.RazorTargetAssemblyInfo.cache
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.dll
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.pdb
+F:\Project\github\DotNetCore_Base\Base_One\DreamSky_Template1\DreamSky_Template1\obj\Debug\netcoreapp2.2\DreamSky_Template1.genruntimeconfig.cache
