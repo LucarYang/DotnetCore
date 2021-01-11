@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using DreamSky_Template1.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
@@ -23,16 +24,28 @@ namespace DreamSky_Template1
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //服务引用层
+            //services.AddMvc();//引用mvc
+            //mvc core 只包含了核心的MVC
+            //而MVC中 包含了核心的MVC 以及其他的第三方常用的服务和方法
+            services.AddMvcCore();
+
+            services.AddSingleton<IStudentInterface, MockStudentInterFace>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env,ILogger<Startup> logger)
         {
+            //服务应用层
+
             if (env.IsDevelopment())
             {
                 DeveloperExceptionPageOptions developerExceptionPageOptions = new DeveloperExceptionPageOptions();
                 developerExceptionPageOptions.SourceCodeLineCount = 10; //一样显示行数
                 app.UseDeveloperExceptionPage(developerExceptionPageOptions);
+            } else if (env.IsStaging()||env.IsEnvironment("UAT")||env.IsProduction()) {
+                app.UseExceptionHandler("/Error");
             }
 
             ////中间件
@@ -91,11 +104,15 @@ namespace DreamSky_Template1
             //});
 
 
+            app.UseMvcWithDefaultRoute();
+            
             app.Run(async (context) =>
             {
                 //异常处理
-                throw new Exception("程序异常 请查看");
-                await context.Response.WriteAsync("Hello World");
+                //throw new Exception("程序异常 请查看");
+                //await context.Response.WriteAsync("Hello World");
+
+                await context.Response.WriteAsync("Hosting Environame:" + env.EnvironmentName);
             });
 
         }

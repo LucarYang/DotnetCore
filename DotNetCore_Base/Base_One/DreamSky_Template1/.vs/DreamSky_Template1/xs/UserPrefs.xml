@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{123DAB5B-2BC9-499C-9010-CE25714B2991}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DreamSky_Template1/Models/MockStudentInterFace.cs">
+    <Files>
+      <File FileName="DreamSky_Template1/Program.cs" Line="1" Column="1" />
+      <File FileName="DreamSky_Template1/Startup.cs" Line="29" Column="47" />
+      <File FileName="DreamSky_Template1/Properties/launchSettings.json" Line="16" Column="32" />
+      <File FileName="DreamSky_Template1/Controller/HomeController.cs" Line="17" Column="10" />
+      <File FileName="DreamSky_Template1/Models/Student.cs" Line="5" Column="9" />
+      <File FileName="DreamSky_Template1/Models/IStudentInterface.cs" Line="6" Column="34" />
+      <File FileName="DreamSky_Template1/Models/MockStudentInterFace.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DreamSky_Template1" expanded="True">
+            <Node name="DreamSky_Template1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controller" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="MockStudentInterFace.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DreamSky__Template1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

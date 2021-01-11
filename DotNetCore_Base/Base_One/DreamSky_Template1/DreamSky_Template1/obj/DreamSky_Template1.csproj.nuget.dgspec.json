@@ -1,35 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj": {}
+    "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj": {}
   },
   "projects": {
-    "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj": {
+    "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj",
+        "projectUniqueName": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj",
         "projectName": "DreamSky_Template1",
-        "projectPath": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\obj\\",
+        "projectPath": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj",
+        "packagesPath": "/Users/yanglu/.nuget/packages/",
+        "outputPath": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yanglu/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -41,7 +38,6 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -71,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

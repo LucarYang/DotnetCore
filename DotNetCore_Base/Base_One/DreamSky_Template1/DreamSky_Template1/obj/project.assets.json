@@ -5741,12 +5741,13 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "jLcyx64wILzyie5xQCp9lTFEHy4SN4jgNjEEWsch+yM3LAoStxZXardI0GroMy+BcamvXjOQqHbgioaqY3mAWg==",
+      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.rtf",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.Analyzers.dll",
@@ -8190,11 +8191,12 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "4aqbLMMejE4+NqNGNaF8cgOn/J6D3X+TWpQnEzNb5J9PlSoZPLWRes2QXEIKwHpgPIiRgZr9N7AKz3Vx7gQ2mw==",
+      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10479,11 +10481,12 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "8icdlmNAH+yYlkZ9kNQsdt2Tzy5rjDVP+q7IKpqzoTwoWo9YVy+xDBgzlCo3WAd7DgGDgummxPZMvpq86I0lXg==",
+      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10664,11 +10667,12 @@
       ]
     },
     "System.Security.Claims/4.3.0": {
-      "sha512": "ckqZqOLEkms60bTi5WUI2FcUw5hKr+3yjjCqwkrRVdMdMDRyLufTr5QWwWm0H5YN7cM9eUlVrtwLg9uu73SNDg==",
+      "sha512": "P/+BR/2lnc4PNDHt/TPBAWHVMLMRHsyYZbU1NphW4HIWzCggz8mJbTQQ3MKljFE7LS3WagmVFuBgoLcFzYXlkA==",
       "type": "package",
       "path": "system.security.claims/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11049,11 +11053,12 @@
       ]
     },
     "System.Security.Principal/4.3.0": {
-      "sha512": "CwxEwk4Lov/EM65cEnmc6q5iZxHr5roRrINZlsX19vwBZ6Ukvj8gCw6oYfQpsyuhFDSpK1038LOAkc01wgps1A==",
+      "sha512": "I1tkfQlAoMM2URscUtpcRo/hX0jinXx6a/KUtEQoz3owaYwl3qwsO8cbzYVVnjxrzxjHo3nJC+62uolgeGIS9A==",
       "type": "package",
       "path": "system.security.principal/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11726,11 +11731,12 @@
       ]
     },
     "System.ValueTuple/4.3.0": {
-      "sha512": "yaMgpiAFfvNzk9UD673ouVHY3wLpYIgfrY9YhTBmRKMpa3LpNnkIBnm/oOmqVO/o2EN59XAfKbV590CsKRUavg==",
+      "sha512": "cNLEvBX3d6MMQRZe3SMFNukVbitDAEpVZO17qa0/2FHxZ7Y7PpFRpr6m2615XYM/tYYYf0B+WyHNujqIw8Luwg==",
       "type": "package",
       "path": "system.valuetuple/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/.xml",
@@ -12075,35 +12081,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/yanglu/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj",
+      "projectUniqueName": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj",
       "projectName": "DreamSky_Template1",
-      "projectPath": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\DreamSky_Template1.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\github\\DotNetCore_Base\\Base_One\\DreamSky_Template1\\DreamSky_Template1\\obj\\",
+      "projectPath": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/DreamSky_Template1.csproj",
+      "packagesPath": "/Users/yanglu/.nuget/packages/",
+      "outputPath": "/Users/yanglu/github/DotnetCore/DotNetCore_Base/Base_One/DreamSky_Template1/DreamSky_Template1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yanglu/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -12115,7 +12118,6 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
@@ -12145,7 +12147,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }
